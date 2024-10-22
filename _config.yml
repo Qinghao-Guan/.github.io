@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "GUAN Qinghao"
+  pronouns         : "he/him" # example: "she/her"  
+  bio              : "Student Assistant at the Computational Social and Communication Science division, Department of Communication and Media Research, UZH"
+  location         : "Zurich, Switzerland"
+  employer         : "University of Zurich"
+  uri              : "https://www.ikmz.uzh.ch/en/research/divisions/computational-social-and-communication-science/team/qinghao-guan.html" # URL
+  email            : "q.guan@ikmz.uzh.ch" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
